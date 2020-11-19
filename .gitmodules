@@ -1,3 +1,6 @@
 [submodule "subModule"]
 	path = subModule
 	url = https://github.com/Ishwarya27/supRepo
+[submodule "anotherFolder"]
+	path = anotherFolder
+	url = https://github.com/Ishwarya27/another
